@@ -4,7 +4,7 @@
 - 👨‍🎓 I'm a B.Sc. student majoring in Applied Physics and minoring in Mathematics.
 - ❤ I like…
     - 🎮 video games
-    - languages such as 🇫🇮🇬🇧🇸🇪🇷🇺🇩🇪🇯🇵🇨🇳 <img alt="SPQR" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Roman_SPQR_banner.svg" />
+    - 💬 languages such as 🇫🇮🇬🇧🇸🇪🇷🇺🇩🇪🇯🇵🇨🇳 <img alt="SPQR" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Roman_SPQR_banner.svg" />
     - 📔 good books
     - 🎞 arthouse movies
     - 🤘 metal music
