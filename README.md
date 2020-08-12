@@ -1,6 +1,6 @@
-### Hi, I'm Niko Savola
+### Hi, I'm **Niko Savola**
 
-## I'm studying Applied Physics at Aalto University!
+## I'm studying **Applied Physics** at **Aalto University**!
 - 👨‍🎓 I'm a B.Sc. student majoring in Applied Physics and minoring in Mathematics.
 - ❤ I like…
     - 🎮 video games
@@ -17,6 +17,7 @@
 [<img align="left" alt="Niko Savola | Goodreads" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/book.svg" />][goodreads]
 
 <br />
+
 
 ### Technologies I use:
 
@@ -39,9 +40,8 @@
 
 <br />
 
----
 
-<img align="left" alt="NikoDaGreat's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=NikoDaGreat&show_icons=true&hide_border=true" />
+<!--img align="left" alt="NikoDaGreat's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=NikoDaGreat&show_icons=true&hide_border=true" /-->
 
 [website]: https://nikosavola.fi
 [instagram]: https://instagram.com/savvyniko
