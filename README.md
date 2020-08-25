@@ -15,6 +15,7 @@
 [<img align="left" alt="Niko Savola | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Niko Savola | last.fm" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/audio-spectrum.svg" />][lastfm]
 [<img align="left" alt="Niko Savola | Goodreads" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/book.svg" />][goodreads]
+[<img align="left" alt="NikoDaGreat | Backloggery" width="22px" src="http://entypo.com/images/game-controller.svg" style="filter: invert(100%);"/>][backloggery]
 
 <br />
 
@@ -48,3 +49,4 @@
 [linkedin]: https://linkedin.com/in/nikosavola
 [lastfm]: https://www.last.fm/user/NikoSukunimi
 [goodreads]: https://www.goodreads.com/user/show/17166885-niko
+[backloggery]: https://www.backloggery.com/NikoDaGreat
