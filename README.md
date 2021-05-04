@@ -42,6 +42,11 @@
 <br />
 
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikoDaGreat&layout=compact&langs_count=10&exclude_repo=friction-simulation" />
+</a>
+
+
 <!--img align="left" alt="NikoDaGreat's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=NikoDaGreat&show_icons=true&hide_border=true" /-->
 
 [website]: https://nikosavola.fi
