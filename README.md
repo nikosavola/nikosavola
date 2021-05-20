@@ -43,10 +43,10 @@
 <br />
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikoDaGreat&layout=compact&langs_count=10&exclude_repo=friction-simulation" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikosavola&layout=compact&langs_count=10&exclude_repo=friction-simulation" />
 
 
-<!--img align="left" alt="NikoDaGreat's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=NikoDaGreat&show_icons=true&hide_border=true" /-->
+<!--img align="left" alt="Niko Savola's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nikosavola&show_icons=true&hide_border=true" /-->
 
 [website]: https://nikosavola.fi
 [instagram]: https://instagram.com/savvyniko
