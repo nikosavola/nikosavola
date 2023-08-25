@@ -1,7 +1,7 @@
 ### Hi, I'm **Niko Savola**
 
-## I'm studying **Applied Physics** at **Aalto University**!
-- 👨‍🎓 I'm an M.Sc. student majoring in Quantum Technology.
+## I'm a quantum technologies PhD student @ **Aalto University**!
+- 👨‍🎓 I'm focusing on design and simulation of superconducting qubits.
 - ❤ I like…
     - 🎮 video games
     - 💬 languages such as 🇫🇮🇬🇧🇸🇪🇷🇺🇩🇪🇯🇵🇨🇳 <img alt="SPQR" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Roman_SPQR_banner.svg" />
@@ -15,15 +15,15 @@
 [<img align="left" alt="Niko Savola | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Niko Savola | last.fm" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/audio-spectrum.svg" />][lastfm]
 [<img align="left" alt="Niko Savola | Goodreads" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/book.svg" />][goodreads]
-[<img align="left" alt="NikoDaGreat | Backloggery" width="22px" src="http://entypo.com/images/game-controller.svg" style="filter: invert(100%);"/>][backloggery]
+
 
 <br />
 
 
 ### Technologies I use:
 
-<img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
-<img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
+
+<img align="left" alt="Neovim" width="26px" src="https://raw.githubusercontent.com/github/explore/26674e638508ac4a4e113ee32d6755ebfa000569/topics/neovim/neovim.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Matlab" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
 <img align="left" alt="Photoshop" width="26px" src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/photoshop.svg" />
