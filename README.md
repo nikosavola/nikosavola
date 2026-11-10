@@ -7,7 +7,7 @@ photonics engineer @ taara connect
 part-time quantum phd @ aalto university
 
 $ ls ~/work
-quantum-rf-pdk/  gdsfactory/  gplugins/  sax/  palace/  klayout/
+quantum-rf-pdk/  gdsfactory/  gplugins/  klayout/  elmerfem/  mfem/
 
 $ ls ~/after-hours
 k-ruoka-mcp/          immich-wear/          AnkiDroid-WearOS/
