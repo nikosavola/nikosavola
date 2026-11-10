@@ -1,56 +1,20 @@
-### Hi, I'm **Niko Savola**
+```console
+$ whoami
+niko savola · helsinki, finland
 
-## I'm a quantum technologies PhD student @ **Aalto University**!
-- 👨‍🎓 I'm focusing on design and simulation of superconducting qubits.
-- ❤ I like…
-    - 🎮 video games
-    - 💬 languages such as 🇫🇮🇬🇧🇸🇪🇷🇺🇩🇪🇯🇵🇨🇳 <img alt="SPQR" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Roman_SPQR_banner.svg" />
-    - 📔 good books
-    - 🎞 arthouse movies
-    - 🤘 metal music
+$ cat role.txt
+photonics engineer @ taara connect
+part-time quantum phd @ aalto university
 
-### My other profiles:
+$ ls ~/work
+quantum-rf-pdk/  gdsfactory/  gplugins/  sax/  palace/  klayout/
 
-[<img align="left" alt="nikosavola.fi" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Niko Savola | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Niko Savola | last.fm" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/audio-spectrum.svg" />][lastfm]
-[<img align="left" alt="Niko Savola | Goodreads" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/book.svg" />][goodreads]
+$ ls ~/after-hours
+k-ruoka-mcp/          immich-wear/          AnkiDroid-WearOS/
+karoo-xm-headphones/  electrolux-ac-infrared/
 
+$ cat ~/.config/interests
+cycling, gaming, metal, good books, languages (fi en sv de ru ja zh la)
+```
 
-<br />
-
-
-### Technologies I use:
-
-
-<img align="left" alt="Neovim" width="26px" src="https://raw.githubusercontent.com/github/explore/26674e638508ac4a4e113ee32d6755ebfa000569/topics/neovim/neovim.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Matlab" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
-<img align="left" alt="Photoshop" width="26px" src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/photoshop.svg" />
-<img align="left" alt="InDesign" width="26px" src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/indesign.svg" />
-<img align="left" alt="Illustrator" width="26px" src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" />
-<img align="left" alt="Julia" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/julia/julia.png" />
-<img align="left" alt="Scala" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" />
-<img align="left" alt="LaTeX" width="26px" src="https://images.ctfassets.net/nrgyaltdicpt/h9dpHuVys19B1sOAWvbP6/5f8d4c6d051f63e4ba450befd56f9189/ologo_square_colour_light_bg.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Raspberry Pi" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />
-
-<br />
-<br />
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikosavola&layout=compact&langs_count=10&exclude_repo=friction-simulation" />
-
-
-<!--img align="left" alt="Niko Savola's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nikosavola&show_icons=true&hide_border=true" /-->
-
-[website]: https://nikosavola.fi
-[instagram]: https://instagram.com/savvyniko
-[linkedin]: https://linkedin.com/in/nikosavola
-[lastfm]: https://www.last.fm/user/NikoSukunimi
-[goodreads]: https://www.goodreads.com/user/show/17166885-niko
-[backloggery]: https://www.backloggery.com/NikoDaGreat
+[website](https://nikosavola.github.io) · [ORCID](https://orcid.org/0000-0002-8036-4984) · [research.aalto.fi](https://research.aalto.fi/en/persons/niko-savola/) · [LinkedIn](https://linkedin.com/in/nikosavola) · [Liberapay](https://liberapay.com/nikosavola)
