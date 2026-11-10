@@ -6,8 +6,8 @@ $ cat role.txt
 photonics engineer @ taara connect
 part-time quantum phd @ aalto university
 
-$ ls ~/work
-quantum-rf-pdk/  gdsfactory/  gplugins/  klayout/  elmerfem/  mfem/
+$ ls ~/work_open_source
+quantum-rf-pdk/  gdsfactory/  gplugins/
 
 $ ls ~/after-hours
 k-ruoka-mcp/          immich-wear/          AnkiDroid-WearOS/
