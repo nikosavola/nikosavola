@@ -10,10 +10,10 @@ $ ls ~/work_open_source
 quantum-rf-pdk/  gdsfactory/  gplugins/
 
 $ ls ~/after-hours
-k-ruoka-mcp/             hyperfine-skill/    analyze-grammar-skill/
-immich-wear/             AnkiDroid-WearOS/   ClockifyWearOS/
-karoo-xm-headphones/     karoo-ext-testing/  typst-touying-template/
-electrolux-ac-infrared/  ha-anki/            sphinxcontrib-bibtex-urn/
+k-ruoka-mcp/               immich-wear/          AnkiDroid-WearOS/
+ClockifyWearOS/            karoo-xm-headphones/  karoo-ext-testing/
+electrolux-ac-infrared/    ha-anki/              typst-touying-template/
+sphinxcontrib-bibtex-urn/
 
 $ cat ~/.config/interests
 cycling, tile hunting, gaming, self-hosting, home automation
