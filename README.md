@@ -19,4 +19,6 @@ $ cat ~/.config/interests
 cycling, tile hunting, gaming, self-hosting, home automation
 ```
 
-[website](https://nikosavola.github.io) · [ORCID](https://orcid.org/0000-0002-8036-4984) · [research.aalto.fi](https://research.aalto.fi/en/persons/niko-savola/) · [LinkedIn](https://linkedin.com/in/nikosavola) · [Liberapay](https://liberapay.com/nikosavola)
+[website](https://nikosavola.github.io) · [ORCID](https://orcid.org/0000-0002-8036-4984) ·
+[research.aalto.fi](https://research.aalto.fi/en/persons/niko-savola/) · [LinkedIn](https://linkedin.com/in/nikosavola)
+· [Liberapay](https://liberapay.com/nikosavola)
